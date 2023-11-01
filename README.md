@@ -6,7 +6,7 @@ The aim was to learn as much as possible about supervised machine learning, and 
 
 ## Overview
 
-The coursework is on a [jupyter notebook](blob/main/coursework_phishing_website_detection.ipynb) which is $100\%$ reproducible and explains my thinking step by step.
+The coursework is on a jupyter notebook *(`coursework_phishing_website_detection.ipynb`)* which is 100% reproducible and explains my thinking step by step.
 
 There are several stages in this coursework:
 1. Research & Data Exploration
