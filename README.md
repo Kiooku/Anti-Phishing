@@ -27,3 +27,5 @@ Key words:
 As a bonus, I decided to create a [streamlit](https://streamlit.io/) application to simulate a real-world implementation of an anti-phishing solution based on machine learning.
 
 > **Note** To run the streamlit app that allow you to determine if it's a phishing or legitimate website based on URL do the following command: `streamlit run phishing_website_detection_app.py`
+
+https://github.com/Kiooku/Anti-Phishing/assets/33032066/48abf84a-85a0-4dd1-91cd-63c71e5f55b7
